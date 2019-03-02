@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 
@@ -50,7 +50,7 @@
 
 </head>
 <body class="aa-price-range">
-	<!-- Pre Loader -->
+	<!-- Pre Loader 123-->
 	<div id="aa-preloader-area">
 		<div class="pulse"></div>
 	</div>
